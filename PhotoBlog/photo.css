@@ -1,0 +1,27 @@
+img {
+
+    width: 30%;
+    margin: calc(10%/6);
+    border-radius: 10%;
+}
+
+main {
+    /* background-color: #14213d; */
+    background-image: url("https://i.pinimg.com/564x/04/5d/b5/045db566c61dd1cbfeed91710135367c.jpg");
+}
+
+nav {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    border-bottom: 2px solid white;
+    width: 30%;
+    margin-left: calc(10%/6);
+    padding: 1.2em 0;
+
+}
+
+header {
+
+    background-color: #293241;
+}
